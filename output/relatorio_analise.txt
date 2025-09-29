@@ -1,0 +1,23 @@
+Total de atendimentos: 55
+Taxa de conversão: 69.09%
+
+Clientes interessados:
+- Peças: 19
+- Cursos: 11
+- Informações: 11
+- Serviços: 14
+
+Horário de pico: Tarde (22 atendimentos)
+Dia mais movimentado: Sábado
+
+Top 10 palavras mais usadas:
+1º: 'curso' foi utilizada 11 vezes
+2º: 'quero' foi utilizada 9 vezes
+3º: 'esportivo' foi utilizada 7 vezes
+4º: 'kit' foi utilizada 7 vezes
+5º: 'fazem' foi utilizada 7 vezes
+6º: 'preço' foi utilizada 6 vezes
+7º: 'quanto' foi utilizada 5 vezes
+8º: 'quais' foi utilizada 4 vezes
+9º: 'saber' foi utilizada 3 vezes
+10º: 'preciso' foi utilizada 3 vezes

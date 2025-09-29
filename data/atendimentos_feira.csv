@@ -1,0 +1,56 @@
+id,data_hora,nome_cliente,tipo_interesse,mensagem,vendedor,converteu_venda
+1,2025-09-20 09:12:00,Ana Souza,peças,Quero saber o preço das rodas esportivas,Ricardo,sim
+2,2025-09-20 10:05:00,Carlos Mendes,serviço,Preciso instalar suspensão ajustável,Paula,não
+3,2025-09-20 11:47:00,Mariana Lima,curso,Vocês oferecem curso de drift?,Henrique,sim
+4,2025-09-20 15:20:00,Roberto Silva,informações,Qual o prazo de entrega das peças?,João,não
+5,2025-09-20 16:33:00,Patrícia Gomes,serviço,Quero manutenção no câmbio esportivo,Paula,sim
+6,2025-09-20 18:11:00,Felipe Castro,peças,Qual o preço do kit de freio?,Ricardo,sim
+7,2025-09-21 09:58:00,Beatriz Rocha,curso,Quanto tempo dura o curso básico?,Henrique,não
+8,2025-09-21 14:25:00,André Nogueira,peças,Tem pneu slick disponível?,João,sim
+9,2025-09-21 19:02:00,Larissa Alves,informações,Quais marcas vocês trabalham?,Paula,não
+10,2025-09-21 20:15:00,Thiago Martins,serviço,Fazem revisão completa de drift car?,Henrique,sim
+11,2025-09-22 08:40:00,Juliana Freitas,peças,Quero comprar volante esportivo,Ricardo,sim
+12,2025-09-22 09:15:00,Lucas Almeida,informações,Qual o endereço da oficina?,Paula,não
+13,2025-09-22 13:27:00,Sandra Ribeiro,curso,Posso parcelar o curso?,Henrique,sim
+14,2025-09-22 17:41:00,Daniel Ferreira,peças,Quanto custa o escapamento esportivo?,João,sim
+15,2025-09-22 18:59:00,Renata Cardoso,serviço,Quero instalar aerofólio,Paula,não
+16,2025-09-23 09:05:00,Pedro Barbosa,peças,Vocês têm kit turbo?,Ricardo,sim
+17,2025-09-23 11:50:00,Camila Pires,curso,O curso tem certificado?,Henrique,sim
+18,2025-09-23 14:18:00,Rafael Oliveira,informações,Quais são as formas de pagamento?,João,não
+19,2025-09-23 16:42:00,Aline Santos,serviço,Quanto custa alinhar e balancear?,Paula,sim
+20,2025-09-23 20:31:00,Fernando Lopes,peças,Preciso de rodas aro 18,Ricardo,não
+21,2025-09-24 08:22:00,Carolina Cunha,curso,Tem curso avançado?,Henrique,sim
+22,2025-09-24 10:17:00,Gustavo Pereira,peças,Quanto sai um kit de suspensão?,João,sim
+23,2025-09-24 13:49:00,Tatiane Duarte,informações,Vocês fazem entrega para outro estado?,Paula,não
+24,2025-09-24 15:26:00,Diego Fonseca,serviço,Fazem preparação de motor?,Henrique,sim
+25,2025-09-24 19:14:00,Michele Moraes,peças,Qual o valor do filtro esportivo?,Ricardo,não
+26,2025-09-25 09:35:00,Anderson Costa,serviço,Quero revisar a embreagem,Paula,sim
+27,2025-09-25 11:05:00,Sônia Prado,curso,O curso é online ou presencial?,Henrique,não
+28,2025-09-25 13:33:00,Cláudio Antunes,peças,Tem bateria de alta performance?,João,sim
+29,2025-09-25 16:12:00,Vanessa Moura,informações,Quais carros vocês atendem?,Ricardo,não
+30,2025-09-25 18:48:00,Mateus Farias,serviço,Fazem instalação de roll cage?,Paula,sim
+31,2025-09-26 08:29:00,Isabela Fernandes,peças,Quero saber preço de kit nitro,Henrique,sim
+32,2025-09-26 09:59:00,Bruno Carvalho,informações,Atendem finais de semana?,João,não
+33,2025-09-26 14:41:00,Débora Lima,curso,O curso tem prática na pista?,Paula,sim
+34,2025-09-26 15:55:00,Alexandre Ramos,peças,Qual o preço do volante quick release?,Ricardo,sim
+35,2025-09-26 19:10:00,Helena Martins,serviço,Fazem solda no diferencial?,Henrique,não
+36,2025-09-27 09:21:00,Leonardo Batista,peças,Quero saber do kit de iluminação,João,sim
+37,2025-09-27 11:18:00,Rafaela Correia,curso,O curso é em grupo ou individual?,Paula,não
+38,2025-09-27 13:44:00,Marcelo Teixeira,serviço,Quanto custa reforço de chassi?,Henrique,sim
+39,2025-09-27 17:37:00,Priscila Nunes,informações,Vocês têm garantia nos serviços?,Ricardo,não
+40,2025-09-27 20:22:00,Vinícius Araujo,peças,Qual o valor do kit de freio de mão hidráulico?,Paula,sim
+41,2025-09-28 08:14:00,Marcos Tavares,curso,Existe curso para iniciantes?,Henrique,sim
+42,2025-09-28 09:53:00,Lilian Silva,informações,Quais peças estão em promoção?,João,não
+43,2025-09-28 14:36:00,Otávio Pinto,serviço,Quero instalar banco concha,Ricardo,sim
+44,2025-09-28 16:25:00,Clara Meireles,peças,Qual o valor da barra estabilizadora?,Paula,sim
+45,2025-09-28 18:40:00,Renan Duarte,serviço,Fazem troca de óleo esportivo?,Henrique,sim
+46,2025-09-29 08:47:00,Sabrina Costa,peças,Qual o preço de amortecedor roscado?,João,sim
+47,2025-09-29 10:30:00,Paulo Sérgio,curso,Tem curso voltado para competições?,Paula,sim
+48,2025-09-29 14:55:00,Natalia Guedes,informações,Atendem carros importados?,Ricardo,sim
+49,2025-09-29 17:20:00,Caio Barreto,peças,Preciso de pneus traseiros aro 17,Henrique,sim
+50,2025-09-29 19:58:00,Bruna Azevedo,serviço,Fazem instalação de freio ABS esportivo?,Paula,sim
+51,2025-09-30 09:12:00,João Pedro,peças,Qual o preço do kit intercooler?,Ricardo,sim
+52,2025-09-30 12:27:00,Amanda Reis,curso,O curso tem material incluso?,Henrique,sim
+53,2025-09-30 15:18:00,Fábio Moura,informações,Vocês têm parceria com equipes?,João,sim
+54,2025-09-30 17:49:00,Elisa Carvalho,serviço,Quero fazer revisão elétrica,Paula,sim
+55,2025-09-30 20:07:00,Guilherme Santos,peças,Tem volante esportivo estocado?,Ricardo,sim
